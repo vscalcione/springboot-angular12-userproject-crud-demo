@@ -1,4 +1,4 @@
-package it.vscalcione.springboot.crudapplicationdemo.repositories;
+package it.vscalcione.springboot.crudapplicationdemo.v1.repositories;
 
 public interface CrudRepository<T, PK> {
 	Iterable<T> findAll();

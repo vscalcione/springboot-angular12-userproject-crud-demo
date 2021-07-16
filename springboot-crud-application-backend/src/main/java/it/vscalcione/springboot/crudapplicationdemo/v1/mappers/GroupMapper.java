@@ -1,8 +1,8 @@
-package it.vscalcione.springboot.crudapplicationdemo.mappers;
+package it.vscalcione.springboot.crudapplicationdemo.v1.mappers;
 
 import org.springframework.stereotype.Component;
 
-import it.vscalcione.springboot.crudapplicationdemo.dtos.GroupDto;
+import it.vscalcione.springboot.crudapplicationdemo.v1.dtos.GroupDto;
 
 @Component
 public class GroupMapper implements EntityDtoMapper<GroupDto, Group> {

@@ -1,12 +1,12 @@
-package it.vscalcione.springboot.crudapplicationdemo.repositories;
+package it.vscalcione.springboot.crudapplicationdemo.v1.repositories;
 
 import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
 
-import it.vscalcione.springboot.crudapplicationdemo.dtos.AuthorityDto;
-import it.vscalcione.springboot.crudapplicationdemo.dtos.GroupDto;
-import it.vscalcione.springboot.crudapplicationdemo.dtos.UserDto;
+import it.vscalcione.springboot.crudapplicationdemo.v1.dtos.AuthorityDto;
+import it.vscalcione.springboot.crudapplicationdemo.v1.dtos.GroupDto;
+import it.vscalcione.springboot.crudapplicationdemo.v1.dtos.UserDto;
 
 public interface GroupRepository extends CrudRepository<GroupDto, String>{
 	

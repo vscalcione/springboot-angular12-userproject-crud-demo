@@ -1,4 +1,4 @@
-package it.vscalcione.springboot.crudapplicationdemo.mappers;
+package it.vscalcione.springboot.crudapplicationdemo.v1.mappers;
 
 import java.util.ArrayList;
 import java.util.List;

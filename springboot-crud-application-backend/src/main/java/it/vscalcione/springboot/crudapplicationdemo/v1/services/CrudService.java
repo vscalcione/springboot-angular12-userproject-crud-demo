@@ -1,4 +1,4 @@
-package it.vscalcione.springboot.crudapplicationdemo.services;
+package it.vscalcione.springboot.crudapplicationdemo.v1.services;
 
 public interface CrudService<T, PK> {
 	Iterable<T> findAll();

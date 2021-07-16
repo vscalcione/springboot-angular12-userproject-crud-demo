@@ -1,4 +1,4 @@
-package it.vscalcione.springboot.crudapplicationdemo.dtos;
+package it.vscalcione.springboot.crudapplicationdemo.v1.dtos;
 
 public class GroupDto {
 	

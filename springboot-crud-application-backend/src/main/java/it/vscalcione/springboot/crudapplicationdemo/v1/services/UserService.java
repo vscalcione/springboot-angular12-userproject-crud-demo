@@ -1,4 +1,4 @@
-package it.vscalcione.springboot.crudapplicationdemo.services;
+package it.vscalcione.springboot.crudapplicationdemo.v1.services;
 
 import java.util.List;
 
